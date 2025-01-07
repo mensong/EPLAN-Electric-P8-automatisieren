@@ -63,7 +63,7 @@
     <Compile Include="02_Actions_ausführen\01_Einzelne_Action.cs" />
     <Compile Include="02_Actions_ausführen\02_Mehrere_Actions.cs" />
     <Compile Include="02_Actions_ausführen\03_Action_mit_Parameter.cs" />
-    <Compile Include="02_Actions_ausführen\04_Action_überladen.cs" />
+    <Compile Include="02_Actions_ausführen\04_Action_uberladen.cs" />
     <Compile Include="03_Klassen\01_String.cs" />
     <Compile Include="03_Klassen\02_String_Pfadvariable.cs" />
     <Compile Include="03_Klassen\03_Integer.cs" />
@@ -81,8 +81,8 @@
     <Compile Include="04_Programmsteuerung\03_Switch.cs" />
     <Compile Include="04_Programmsteuerung\04_Methode_MessageBox.cs" />
     <Compile Include="04_Programmsteuerung\05_Methode_Integer.cs" />
-    <Compile Include="04_Programmsteuerung\06_Methode_Rückgabewert.cs" />
-    <Compile Include="04_Programmsteuerung\07_Methoden_Überladungen.cs" />
+    <Compile Include="04_Programmsteuerung\06_Methode_Ruckgabewert.cs" />
+    <Compile Include="04_Programmsteuerung\07_Methoden_Uberladungen.cs" />
     <Compile Include="04_Programmsteuerung\08_Decider.cs" />
     <Compile Include="04_Programmsteuerung\09_Action_mit_Rückgabewert.cs" />
     <Compile Include="04_Programmsteuerung\10_Action_mit_ActionCallingContext.cs" />
@@ -95,8 +95,8 @@
     <Compile Include="05_Settings\07_Import.cs" />
     <Compile Include="05_Settings\08_Import_Projekteinstellung.cs" />
     <Compile Include="06_Ribbon_Kontextmenüs\01_Ribbon.cs" />
-    <Compile Include="06_Ribbon_Kontextmenüs\02_Menüpunkt_in_Kontextmenü.cs" />
-    <Compile Include="06_Ribbon_Kontextmenüs\03_Kontextmenü_ID.cs" />
+    <Compile Include="06_Ribbon_Kontextmenüs\02_Menupunkt_in_Kontextmenü.cs" />
+    <Compile Include="06_Ribbon_Kontextmenüs\03_Kontextmenu_ID.cs" />
     <Compile Include="07_Progressbar\01_SimpleProgress.cs" />
     <Compile Include="07_Progressbar\02_EnhancedProgress.cs" />
     <Compile Include="08_Formulare\01_Vorlage.cs">
@@ -109,18 +109,18 @@
     <Compile Include="08_Formulare\04_Projektsuche.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="09_Externe_Programme\01_Prozess_ausführen.cs" />
-    <Compile Include="09_Externe_Programme\02_Unterschiedliche_Prozesse_ausführen.cs" />
-    <Compile Include="10_Dateien_und_Ordner\01_Ordner_prüfen.cs" />
-    <Compile Include="10_Dateien_und_Ordner\02_Datei_prüfen.cs" />
-    <Compile Include="10_Dateien_und_Ordner\03_Datei_löschen.cs" />
+    <Compile Include="09_Externe_Programme\01_Prozess_ausfuhren.cs" />
+    <Compile Include="09_Externe_Programme\02_Unterschiedliche_Prozesse_ausfuhren.cs" />
+    <Compile Include="10_Dateien_und_Ordner\01_Ordner_prufen.cs" />
+    <Compile Include="10_Dateien_und_Ordner\02_Datei_prufen.cs" />
+    <Compile Include="10_Dateien_und_Ordner\03_Datei_loschen.cs" />
     <Compile Include="10_Dateien_und_Ordner\04_Datei_mit_Datumsstempel.cs" />
     <Compile Include="11_Dateien_öffnen_speichern\01_SaveFileDialog.cs" />
     <Compile Include="11_Dateien_öffnen_speichern\02_OpenFileDialog.cs" />
-    <Compile Include="11_Dateien_öffnen_speichern\03_Dateinamen_prüfen.cs" />
+    <Compile Include="11_Dateien_öffnen_speichern\03_Dateinamen_prufen.cs" />
     <Compile Include="11_Dateien_öffnen_speichern\04_FileSelectDecisionContext.cs" />
     <Compile Include="12_Dateien_schreiben\01_Beschriftung.cs" />
-    <Compile Include="12_Dateien_schreiben\02_Beschriftung_mit_Überprüfung.cs" />
+    <Compile Include="12_Dateien_schreiben\02_Beschriftung_mit_Uberprüfung.cs" />
     <Compile Include="12_Dateien_schreiben\03_PDF_beim_Schließen_erzeugen.cs" />
     <Compile Include="12_Dateien_schreiben\04_Textdatei_schreiben.cs" />
     <Compile Include="12_Dateien_schreiben\05_XML_Datei_schreiben.cs" />
@@ -128,7 +128,7 @@
     <Compile Include="13_Dateien_lesen\02_XML-Datei_lesen.cs" />
     <Compile Include="13_Dateien_lesen\03_XML_Datei_lesen_eigene_Klasse.cs" />
     <Compile Include="14_Artikeldaten\01_Anzahl_Artikel_lesen.cs" />
-    <Compile Include="14_Artikeldaten\02_Eigenschaften_verändern.cs" />
+    <Compile Include="14_Artikeldaten\02_Eigenschaften_verandern.cs" />
     <Compile Include="15_Beispiele\01_Compress.cs" />
     <Compile Include="15_Beispiele\02_ChangeLayer.cs" />
     <Compile Include="15_Beispiele\03_Edit.cs" />
